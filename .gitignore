@@ -9,6 +9,9 @@ __pycache__/
 # vim swap files
 *.swp
 
+# json config files
+*.json
+
 # Distribution / packaging
 .Python
 env/
